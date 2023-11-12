@@ -3,7 +3,7 @@ Ultralytics for jetson nano - python 3.6
 I have edited this version of Ultralytics for Jetson nano with python 3.6
 You need to run this command after download file
 
-pip3 instal --no-deps ultralytics-8.0.208.tar.gz 
+pip3 install --no-deps ultralytics-8.0.208.tar.gz 
 
 after that you need to install the packages that need to install
 
